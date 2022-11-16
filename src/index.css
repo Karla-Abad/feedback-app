@@ -146,10 +146,12 @@ input:focus {
 }
 
 .btn {
+  align-items: center;
   color: #fff;
   border: 0;
   border-radius: 8px;
-  color: #fff;
+  display: inline-flex;
+  justify-content: center;
   width: 100px;
   height: 40px;
   cursor: pointer;
